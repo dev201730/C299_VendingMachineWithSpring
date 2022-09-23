@@ -1,0 +1,6 @@
+A::Cola                                  ::1.50::0
+B::Pepsi                                 ::2.50::10
+C::Water                                 ::1.25::10
+D::Potato Chips                          ::0.75::10
+E::Beer                                  ::2.90::8
+F::Wine                                  ::4.85::10
